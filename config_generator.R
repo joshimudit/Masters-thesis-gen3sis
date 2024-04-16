@@ -2,7 +2,7 @@
 ###            METADATA            ###
 ######################################
 #
-# Author: Mudit Joshi
+# Mudit Joshi
 #
 # Date: 04.10.2023
 #

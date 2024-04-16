@@ -1,13 +1,13 @@
 ######################################
 ###            METADATA            ###
 ######################################
-# Author: Mudit Joshi
+# Mudit Joshi
 #
 # Date: 11.07.2023
 #
 # Landscape: Scotese 2018, 400mya, 800 time steps (500kyr)
 #
-# Projects: Masters thesis
+# Project: Masters thesis
 ######################################
 
 # setwd("E:/thesis/gen3sis_run")
